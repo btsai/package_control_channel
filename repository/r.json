@@ -42,7 +42,19 @@
 				}
 			]
 		},
-		{
+                {
+                        "name": "Rails Autocomplete",
+                        "details": "https://github.com/btsai/sublime_rails_autocomplete",
+                        "platforms": ["osx"],
+                        "labels": ["rails", "autocomplete"],
+                        "releases": [
+                                {
+                                        "sublime_text": ">2999",
+                                        "details": "https://github.com/btsai/sublime_rails_autocomplete/tags"
+                                }
+                        ]
+                },
+ 		{
 			"name": "Rails Developer Snippets",
 			"details": "https://github.com/j10io/railsdev-sublime-snippets",
 			"labels": ["snippets"],
